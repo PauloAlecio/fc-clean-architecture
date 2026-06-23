@@ -75,6 +75,10 @@ src/
 npm install
 ```
 
+## API
+
+- `GET /product` - lista todos os produtos cadastrados
+
 ## Executando os Testes
 
 ### Executar todos os testes
@@ -202,5 +206,10 @@ npm run dev
 - Repositórios mockados em testes unitários permitem testar lógica de negócio independentemente da camada de persistência
 
 ## Autor
+Paulo Alécio
 
 Implementação de Clean Architecture para a Entidade Product seguindo os padrões do DevFullCycle.
+
+## Licença
+
+MIT
